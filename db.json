@@ -1,5 +1,19 @@
+[
 {
-  "post": [
-    { "id": 1, "title": "Post 1" }
-  ]
+
+  "id":1,
+  "name":"ali",
+  "result":[
+    
+    {
+      "sub":"english",
+      "marks":55
+    }
+    
+    ]
+  
+  
+  
 }
+  
+]
